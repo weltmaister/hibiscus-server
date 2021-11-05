@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 set -e
 DB_PORT=${DB_PORT:-3306}
 
