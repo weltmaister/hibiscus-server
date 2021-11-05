@@ -1,4 +1,4 @@
-FROM openjdk:18-jdk-alpine
+FROM openjdk:11-jdk-alpine
 
 RUN set -ex; \
     \
